@@ -1,1 +1,3 @@
-helliii
+For adding Untracked files git add <file path> after adding file you need to commit git commit -m "< your message>"
+For committing only modified file git commit -m "<your message>" <file_path 1> <file_path2>
+Pushing code to git git push <origin> <branch_name> Update remote refs along with associated objects.helliii
